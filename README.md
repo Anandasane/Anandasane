@@ -1,27 +1,81 @@
-# 💫 About Me:
-I'm passionate about building intelligent, production-ready systems that solve real-world problems. My expertise spans machine learning, full-stack development, and cloud infrastructure. I believe in learning by building—every project is an opportunity to grow and create something meaningful.<br><br>🎓 Final-year AI student with a strong foundation in Python, Java, and web technologies<br>🤖 Experienced with RAG-based systems, LLMs, and semantic search (LangChain, FAISS)<br>🎨 Passionate about creating polished, production-grade UIs and seamless user experiences<br>📚 Continuous learner exploring AI/ML architectures, cloud infrastructure, and emerging technologies<br>💼 Seeking roles in AI engineering, product analytics, and software development
+# 👨‍💻 Anand Asane
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anand-asane-52a982293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandasane4@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anandasane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anandasane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandasane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anandasane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anandasane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 AI Engineer | Full Stack Developer | Problem Solver  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anandasane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+I'm a final-year Artificial Intelligence student passionate about building **real-world, production-ready systems**.
+
+- 🎓 B.Tech AI @ G.H. Raisoni College, Pune  
+- 🤖 Focus: AI/ML, RAG Systems, Backend Development  
+- 💡 Love solving real-world problems using data + intelligent systems  
+- 📈 Continuously learning System Design, Cloud & Scalable Architectures  
+
+---
+
+## 🚀 Projects
+
+### ⚖️ Justice Bot — RAG-based Legal Advisor
+- Built a **Retrieval-Augmented Generation (RAG)** system using **LangChain + Python**
+- Implemented **FAISS vector database** for semantic search
+- Combined LLM with retrieval for **context-aware legal responses**
+- Designed to provide **basic legal guidance**
+
+🔧 Tech Stack:
+`Python` `LangChain` `FAISS` `LLMs`
+
+---
+
+### 🌦️ Weather Forecast Web App
+- Developed a **responsive React application**
+- Integrated **OpenWeatherMap API** for real-time weather data
+- Implemented **search history using local storage**
+- Designed reusable UI components for better UX
+
+🔧 Tech Stack:
+`React` `JavaScript` `API Integration` `CSS`
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+`Python` `Java` `SQL` `JavaScript` `C++`
+
+### 🤖 AI/ML
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`
+
+### 🌐 Web Development
+`React` `Node.js` `Express.js` `HTML` `CSS`
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `PostgreSQL`
+
+### ⚙️ Tools & DevOps
+`Git` `GitHub` `Docker` `AWS` `Kubernetes` `Postman`
+
+---
+
+## 📊 GitHub Stats
+
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandasane&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandasane&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+- 🎯 CGPA: 9.15/10  
+- 📜 NPTEL Certified (Python & Soft Skills)  
+- 🧠 Built AI-based real-world projects  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: anandasane4@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/anand-asane  
+
+---
+
+⭐ *"Building intelligent systems that make an impact."*
