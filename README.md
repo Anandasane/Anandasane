@@ -57,6 +57,42 @@ I'm a final-year Artificial Intelligence student passionate about building **rea
 
 ---
 
+
+### 🏦 Loan Approval Prediction System
+- Developed a Machine Learning model to predict whether a loan should be approved or not
+- Performed **data preprocessing**, handling missing values and encoding categorical variables
+- Applied classification algorithms like **Logistic Regression / Decision Tree**
+- Evaluated model performance using accuracy, confusion matrix, and classification report
+- Built a simple interface for user input and prediction
+
+🔧 Tech Stack:
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+---
+
+## 📂 Topics Covered
+
+### 🔹 Core Python
+- Variables & Data Types
+- Conditional Statements
+- Loops
+- Functions
+
+### 🔹 Machine Learning (NEW 🔥)
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Classification Algorithms
+
+### 🔹 Data Structures
+- Lists, Tuples, Sets, Dictionaries
+
+### 🔹 Data Science Libraries
+- NumPy
+- Pandas
+- Matplotlib
+
 ## 📊 GitHub Stats
 
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandasane&show_icons=true&theme=radical)
