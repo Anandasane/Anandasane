@@ -1,6 +1,6 @@
 # 👨‍💻 Anand Asane  😎💻
 
-🚀 AI Engineer | Full Stack Developer | Problem Solver  
+🚀 AI Engineer | java X python  Developer | critical thinker 
 
 ---
 
