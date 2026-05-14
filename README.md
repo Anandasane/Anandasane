@@ -5,9 +5,9 @@
 ---
 
 ## 💫 About Me
-I'm a final-year Artificial Intelligence student passionate about building **real-world, production-ready systems**.
+I'm a  passionate about building **real-world systems**.
 
-- 🎓 B.Tech AI @ G.H. Raisoni College, Pune  
+
 - 🤖 Focus: AI/ML, RAG Systems, Backend Development  
 - 💡 Love solving real-world problems using data + intelligent systems  
 - 📈 Continuously learning System Design, Cloud & Scalable Architectures  
@@ -101,8 +101,7 @@ I'm a final-year Artificial Intelligence student passionate about building **rea
 
 ---
 
-## 🏆 Achievements
-- 🎯 CGPA: 9.15/10  
+## 🏆 Achievements  
 - 📜 NPTEL Certified (Python & Soft Skills)  
 - 🧠 Built AI-based real-world projects  
 
@@ -112,6 +111,4 @@ I'm a final-year Artificial Intelligence student passionate about building **rea
 - 📧 Email: anandasane4@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/anand-asane  
 
----
 
-⭐ *"Building intelligent systems that make an impact."*
