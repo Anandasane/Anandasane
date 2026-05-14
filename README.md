@@ -78,7 +78,7 @@ I'm a  passionate about building **real-world systems**.
 - Loops
 - Functions
 
-### 🔹 Machine Learning (NEW 🔥)
+### 🔹 Machine Learning 
 - Data Preprocessing
 - Feature Engineering
 - Model Training
