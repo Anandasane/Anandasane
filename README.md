@@ -41,7 +41,7 @@ I'm a  passionate about building **real-world systems**.
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-`Python` `Java` `SQL` `JavaScript` `C++`
+`Python` `Java` `SQL` 
 
 ### 🤖 AI/ML
 `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`
@@ -53,7 +53,7 @@ I'm a  passionate about building **real-world systems**.
 `MySQL` `MongoDB` `PostgreSQL`
 
 ### ⚙️ Tools & DevOps
-`Git` `GitHub` `Docker` `AWS` `Kubernetes` `Postman`
+`Git` `GitHub` 
 
 ---
 
