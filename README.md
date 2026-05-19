@@ -209,7 +209,8 @@ and exploring scalable software architectures 🚀
 ```
 
 ---
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Anandasane/Anandasane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
