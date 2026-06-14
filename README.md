@@ -12,14 +12,10 @@
 ---
 
 # 💫 About Me
-
-- 🎓 Final Year B.Tech Student in Artificial Intelligence  
-- 🏫 G.H. Raisoni College Of Engineering & Management, Pune  
-- 💼 AI/ML Intern at **Velozen Tech Pvt. Ltd.**  
-- 🚀 Passionate about building **real-world intelligent systems**  
+- 🚀 Passionate about building **real-world systems**  
 - 🤖 Focused on **AI/ML, RAG Systems, Backend Development & Scalable Architectures**  
 - ☕ Exploring **Java Backend Development with Spring Boot**  
-- 🧠 Love solving real-world problems using **data + intelligent systems**  
+- 🧠 Love solving real-world problems using **data + smart systems**  
 - 📈 Continuously learning **System Design, Cloud & Backend Engineering**  
 
 ---
