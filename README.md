@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Anand Asane</h1>
-<h3 align="center">🚀 AI Engineer | Java × Python Developer | Critical Thinker</h3>
+<h3 align="center">🚀 AI Engineer | Data Analyst × Python Developer | Critical Thinker</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20Engineer;Java%20Backend%20Developer;Python%20Developer;Machine%20Learning%20Enthusiast;RAG%20Systems%20Builder;Backend%20%26%20AI%20Explorer&font=Fira%20Code&center=true&width=900&height=60&duration=2500&pause=1000&color=00C6FF&vCenter=true&size=24" />
